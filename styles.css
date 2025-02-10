@@ -1,9 +1,9 @@
 body {
     display: flex;
-    justify-content: center; /* Centre horizontalement */
-    align-items: center; /* Centre verticalement */
-    height: 100vh; /* Utilise toute la hauteur de la fenêtre */
-    margin: 0; /* Supprime les marges par défaut */
+    justify-content: center; 
+    align-items: center; 
+    height: 100vh; 
+    margin: 0; 
     background-color: hsl(0, 0%, 8%);
 }
 
@@ -54,13 +54,13 @@ body {
 
 .btn {
    color: white;
-   display: block; /* Les liens sont maintenant en bloc */
-   text-align: center; /* Texte centré à l'intérieur */
-   background-color:  hsl(0, 0%, 20%); /* Couleur de fond verte */
-   padding: 12px 20px; /* Taille du bouton */
-   text-decoration: none; /* Retirer le soulignement du lien */
-   border-radius: 5px; /* Coins arrondis */
-   margin-bottom: 10px; /* Espacement entre les liens */
+   display: block; 
+   text-align: center; 
+   background-color:  hsl(0, 0%, 20%); 
+   padding: 12px 20px; 
+   text-decoration: none; 
+   border-radius: 5px; 
+   margin-bottom: 10px; 
    transition: background-color 0.2s ease;
 }
 
